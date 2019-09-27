@@ -1,0 +1,9 @@
+﻿  spriteFunctions.cpp
+  spriteWrapper.cpp
+     Creating library C:\Users\lazer\source\repos\Unity_Sprite_Drop_And_Save\x64\Release\Unity_Sprite_Drop_And_Save.lib and object C:\Users\lazer\source\repos\Unity_Sprite_Drop_And_Save\x64\Release\Unity_Sprite_Drop_And_Save.exp
+  Generating code
+  2 of 215 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Unity_Sprite_Drop_And_Save.vcxproj -> C:\Users\lazer\source\repos\Unity_Sprite_Drop_And_Save\x64\Release\Unity_Sprite_Drop_And_Save.dll
